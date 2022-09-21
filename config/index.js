@@ -61,14 +61,14 @@ export const config = {
     {
       name: "啊，是小崔",
       id: "oRnZg54KitVUL5gsuChMMLPBv2as",
-      useTemplateId: "jrvb-ZThP3HwCCnevjfqkvt2PVUl-mIIaX82TcbSwVg",
+      useTemplateId: "LGlC86npQT0Xd8zwcXwKtAKvycou2tVLXd2F46zUPYU",
       province: "陕西",
       city: "宝鸡",
       horoscopeDate: '06-01',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-      \n
+      <br>
       {"type": "生日", "name": "小袁", "year": "2002", "date": "10-26"},
       ],
       customizedDateList: [
@@ -79,14 +79,14 @@ export const config = {
     {
       name: "啊，是小袁",
       id: "oRnZg57_cGssVNWDyQqWZt8wjQKY",
-      useTemplateId: "jrvb-ZThP3HwCCnevjfqkvt2PVUl-mIIaX82TcbSwVg",
+      useTemplateId: "LGlC86npQT0Xd8zwcXwKtAKvycou2tVLXd2F46zUPYU",
       province: "陕西",
       city: "咸阳",
       horoscopeDate: '10-26',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-      \n
+      <br>
       {"type": "生日", "name": "小崔", "year": "2002", "date": "06-01"},
       ],
       customizedDateList: [
