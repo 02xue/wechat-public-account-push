@@ -68,7 +68,6 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-      <br>
       {"type": "生日", "name": "小袁", "year": "2002", "date": "10-26"},
       ],
       customizedDateList: [
@@ -86,7 +85,6 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [
-      <br>
       {"type": "生日", "name": "小崔", "year": "2002", "date": "06-01"},
       ],
       customizedDateList: [
